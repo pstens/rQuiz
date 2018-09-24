@@ -2,7 +2,7 @@ package pstens.de.rquiz.api
 
 import pstens.de.rquiz.data.Post
 import pstens.de.rquiz.data.Subreddit
-import pstens.de.rquiz.pickRandom
+import pstens.de.rquiz.extensions.pickRandom
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import ru.gildor.coroutines.retrofit.await

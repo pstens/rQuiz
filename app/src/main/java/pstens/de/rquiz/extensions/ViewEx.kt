@@ -1,4 +1,4 @@
-package pstens.de.rquiz
+package pstens.de.rquiz.extensions
 
 import android.view.View
 
