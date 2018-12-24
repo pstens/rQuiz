@@ -1,6 +1,6 @@
 package pstens.de.rquiz.database
 
-import android.arch.persistence.room.*
+import androidx.room.*
 import pstens.de.rquiz.data.Post
 
 @Dao
